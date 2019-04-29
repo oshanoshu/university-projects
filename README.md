@@ -7,3 +7,9 @@ It has programming files in Java. Socket Programming to built a http server in t
 
 <strong>3. Fly the tanker</strong> 
 Fly the tanker is a game built using OOP in Java, Java AWT, and Java Swing libraries.
+
+<strong>3. Machine Learning Projects</strong> 
+a. Data Cleaning
+b. K-fold Validation and Classification algorithm
+c. Apriori Algorithm for Frequent Item-set Mining
+d. Principal Component Analysis for dimension reduction and K-Means clustering algorithm
